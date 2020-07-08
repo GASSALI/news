@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nav {background-color:#131313}
+
+
+.head{float: left}
+.caps{text-transform: uppercase;}
+
+.latest{background-color:#0484CC;}
+.clr{background:#033556;
+color: #FDFDFD}
+
+
+.blk{width: 50%;
+	float: left}
+
+.blk2{width: 50%;
+	float: left}
+
+.text{}
